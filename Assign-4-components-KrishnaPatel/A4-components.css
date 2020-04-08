@@ -1,0 +1,54 @@
+﻿/*ASSIGNMENT 4 WEB COMPONENTS*/
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+}
+
+/*widget position*/
+#template-section{
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	border: 7px solid #deb406;
+	border-radius:50px;
+	background-color: #00275e;
+	width:350px;
+	height:200px;
+	padding: 1em;
+	font-family: Arial;
+}
+
+#humber-logo,#H-logo{
+	width: 100%;
+}
+
+#clock{
+	background-color: white;
+	color: black;
+	margin:20px 8px;
+	height: 50px;
+	padding: 2px; 
+}
+
+#time{
+	font-size: 2.5em;
+    font-weight: bold;
+}
+
+#subtitle{
+	text-align: center;
+}
+
+.st{
+	color:#00A2E8;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+#sub1{
+	background-color: black;
+}
+
+#sub2{
+	background-color: white;
+}
